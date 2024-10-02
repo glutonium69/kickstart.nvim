@@ -650,6 +650,7 @@ require('lazy').setup({
         tsserver = {},
         cssls = {},
         html = {},
+        pylsp = {},
         --
 
         lua_ls = {
