@@ -651,6 +651,7 @@ require('lazy').setup({
         cssls = {},
         html = {},
         pylsp = {},
+        ltex = {},
         --
 
         lua_ls = {
