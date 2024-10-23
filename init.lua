@@ -668,6 +668,7 @@ require('lazy').setup({
         html = {},
         pylsp = {},
         ltex = {},
+        java_language_server = {},
         --
 
         lua_ls = {
