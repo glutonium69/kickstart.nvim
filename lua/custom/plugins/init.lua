@@ -12,4 +12,7 @@ return {
   require 'custom.plugins.vimtex',
   require 'custom.plugins.vim_wakatime',
   require 'custom.plugins.telescope',
+  require 'custom.plugins.conform',
+  require 'custom.plugins.nvim_cmp',
+  require 'custom.plugins.to_do_comments',
 }
