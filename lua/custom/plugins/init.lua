@@ -11,4 +11,5 @@ return {
   require 'custom.plugins.gitsigns',
   require 'custom.plugins.vimtex',
   require 'custom.plugins.vim_wakatime',
+  require 'custom.plugins.telescope',
 }
