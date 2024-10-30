@@ -39,7 +39,7 @@ require('lazy').setup({
 
   require 'kickstart/plugins/tokyonight',
 
-  require 'kickstart/plugins/todo-comments',
+  -- require 'kickstart/plugins/todo-comments',
 
   require 'kickstart/plugins/mini',
 
@@ -47,17 +47,17 @@ require('lazy').setup({
 
   -- Custom
 
-  require 'custom/plugins/vimtex',
+  -- require 'custom/plugins/vimtex',
 
-  require 'custom/plugins/wakatime',
+  -- require 'custom/plugins/wakatime',
 
-  require 'custom/plugins/transparent',
+  -- require 'custom/plugins/transparent',
 
-  require 'custom/plugins/discord_rich_presence',
+  -- require 'custom/plugins/discord_rich_presence',
 
   require 'custom/plugins/snippets',
 
-  require 'custom/plugins/peek',
+  -- require 'custom/plugins/peek',
 
   require 'custom/plugins/vim_visual_multi',
 
